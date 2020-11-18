@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861690236393",
+    "firebase_url": "https://grk001-49ab4.firebaseio.com",
+    "project_id": "grk001-49ab4",
+    "storage_bucket": "grk001-49ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861690236393:android:340fe81e3c57ed1a704f78",
+        "android_client_info": {
+          "package_name": "jeffgopalgupta.grk_001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861690236393-is21qprpic5qurh27pd7gb4hpl6a75t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMhgjlEuwLNXDk5XmsLhsrX0Z2YMHVUwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861690236393-is21qprpic5qurh27pd7gb4hpl6a75t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
